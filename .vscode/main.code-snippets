@@ -10,6 +10,7 @@
 		"prefix": "main_st code",
 		"body": [
 			"#include <cstdio>",
+			"#include <iostream>",
 			"$1",
 			"int main() {",
 			"$1",
